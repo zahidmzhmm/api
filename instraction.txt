@@ -1,0 +1,4 @@
+http://localhost/api/upload.php
+form-data:
+filesWithData: {"name":"Zahid","email":"zahidmzhmm@gmail.com"}
+files: file
